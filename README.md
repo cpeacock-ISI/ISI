@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cpeacock-ISI
+- 👋 Hi, I’m Dr Peacock, @cpeacock-ISI
 - 📫 How to reach me ...
 cpeacock@internetscienses.co
 <!---
