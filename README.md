@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr Peacock, @cpeacock-ISI
+- 👋 Hi, I’m Dr Peacock, @cpeacock-ISI, I am EVP - CTO of ISI
 - 📫 How to reach me ...
 cpeacock@internetscienses.co
 <!---
